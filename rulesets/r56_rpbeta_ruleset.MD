@@ -136,6 +136,7 @@
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
    1. Spanish Civil war
 1. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
+1, No Tank volunteers.
 
 ## Nation Specific Rules
 
